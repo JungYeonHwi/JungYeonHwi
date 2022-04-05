@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://blog.naver.com/wjddusgnl676" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:wjddusgnl676@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://github.com/JungYeonHwi"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungYeonHwi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
