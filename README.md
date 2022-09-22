@@ -3,6 +3,8 @@
 - 👋 Hi, I’m JungYeonHwi
 - 👀 I’m interested in frontend!
 
+<img src="frog.gif">
+
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
