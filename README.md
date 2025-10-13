@@ -1,10 +1,8 @@
 # About me ✨
 
-#### 안녕하세요!
+#### 안녕하세요! 함께하는 개발 세상을 꿈꾸는 프론트엔드 개발자 정연휘입니다.
 
-#### 함께 개발 세상을 꿈꾸는 프론트엔드 개발자 정연휘입니다.
-
-<table>
+<table border="0">
 <tr>
 <td width="50%">
   <img src="./profile.png" width="100%" />
@@ -27,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="25%">
 
