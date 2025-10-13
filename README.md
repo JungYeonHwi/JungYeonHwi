@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="50%">
-  <img src="../profile.png" width="100%" />
+  <img src="./profile.png" width="100%" />
 </td>
 <td width="50%">
 
