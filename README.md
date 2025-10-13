@@ -2,22 +2,19 @@
 
 #### 안녕하세요! 함께하는 개발 세상을 꿈꾸는 프론트엔드 개발자 정연휘입니다.
 
-<table border="0">
-<tr>
-<td width="50%">
-  <img src="./profile.png" width="100%" />
-</td>
-<td width="50%">
+<img align="left" src="./profile.png" width="45%" />
+
+<div align="left">
 
 의사소통에 능하며, 개발자와 사용자를 모두 배려하는 편리한 서비스를 만드는 개발자로 성장하고 있습니다.
-<br/>
+<br/><br/>
 작은 서비스부터 큰 서비스까지, 추가적인 개발과 기능 확장이 할만하면을 경험하며, 쉽게 간파할 수 있는 부분까지 세심하게 고려합니다.
-<br/>
+<br/><br/>
 중간에 포기하지 않고 끝까지 이루겠다는 의지로 더 나은 기능과 개발에 집중하겠습니다.
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="left"/>
 
 ---
 
@@ -25,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-<table border="0">
+<table>
 <tr>
 <td valign="top" width="25%">
 
